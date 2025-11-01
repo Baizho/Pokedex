@@ -21,6 +21,14 @@ Live demo: https://pokedex-web-phi.vercel.app/
 
 ---
 
+## Notes
+- Built as a **practice/demo project** to explore React, Next.js, and API integration.  
+- Implemented features like liking Pokémon and pagination to practice **state management and dynamic routing**.  
+- Uses Bootstrap for styling and responsiveness.  
+- No further updates or maintenance planned; kept for reference.
+
+---
+
 ## Run locally
 
 ```bash
