@@ -3,7 +3,7 @@
 A simple, responsive Pokedex web app built with **Next.js**.  
 Browse Pokémon and view details with pagination — a small demo project to practice React/Next.js and API integration.
 
-Live demo: https://pokedex-web-phi.vercel.app/ :contentReference[oaicite:1]{index=1}
+Live demo: https://pokedex-web-phi.vercel.app/
 
 ---
 
